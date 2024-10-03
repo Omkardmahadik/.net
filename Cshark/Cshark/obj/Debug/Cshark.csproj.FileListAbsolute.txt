@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\Cshark\Cshark\bin\Debug\Cshark.exe.config
+C:\Users\dell\Desktop\Cshark\Cshark\bin\Debug\Cshark.exe
+C:\Users\dell\Desktop\Cshark\Cshark\bin\Debug\Cshark.pdb
+C:\Users\dell\Desktop\Cshark\Cshark\obj\Debug\Cshark.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Cshark\Cshark\obj\Debug\Cshark.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Cshark\Cshark\obj\Debug\Cshark.exe
+C:\Users\dell\Desktop\Cshark\Cshark\obj\Debug\Cshark.pdb
