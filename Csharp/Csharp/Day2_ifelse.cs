@@ -11,7 +11,7 @@ namespace Csharp
         static void Main(string[] args)
         {
             //if
-            /* int no;
+            int no;
               Console.WriteLine("enter no:");
               no = Convert.ToInt32(Console.ReadLine());
 
@@ -22,9 +22,9 @@ namespace Csharp
               {
                   Console.WriteLine("odd");
               }
-            */
+            
             //if else
-            /*
+            
             int person;
             Console.WriteLine("enter your age:");
             person = Convert.ToInt32(Console.ReadLine());
@@ -36,7 +36,7 @@ namespace Csharp
             {
                 Console.WriteLine("person is not eligible");
             }
-            */
+            
 
             //if-else chain
             int student;
